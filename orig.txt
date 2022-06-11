@@ -1,0 +1,4 @@
+Ok, im just basically writing a whole bunch of rubbish.
+I'm going to translate this bunch of rubbish by using the translator
+I downoaded from PyPi. It seems to have many different language options
+so we shall see what we will use. Hope this is enough rubbish now. 
